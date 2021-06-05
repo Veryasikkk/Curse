@@ -1,0 +1,12 @@
+﻿  CChecersField.cpp
+C:\Users\lbbtt\Desktop\Checkers1\Checkers\Checkers\CChecersField.cpp(111,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\lbbtt\Desktop\Checkers1\Checkers\Checkers\CChecersField.cpp(112,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\lbbtt\Desktop\Checkers1\Checkers\Checkers\CChecersField.cpp(113,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\lbbtt\Desktop\Checkers1\Checkers\Checkers\CChecersField.cpp(114,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\lbbtt\Desktop\Checkers1\Checkers\Checkers\CChecersField.cpp(115,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\lbbtt\Desktop\Checkers1\Checkers\Checkers\CChecersField.cpp(116,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\lbbtt\Desktop\Checkers1\Checkers\Checkers\CChecersField.cpp(117,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\lbbtt\Desktop\Checkers1\Checkers\Checkers\CChecersField.cpp(124,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\lbbtt\Desktop\Checkers1\Checkers\Checkers\CChecersField.cpp(156,7): warning C4101: r: неиспользованная локальная переменная
+C:\Users\lbbtt\Desktop\Checkers1\Checkers\Checkers\CChecersField.cpp(84): warning C4715: CChecersField::RegisteClass: значение возвращается не при всех путях выполнения
+  Checkers.vcxproj -> C:\Users\lbbtt\Desktop\Checkers1\Checkers\Debug\Checkers.exe
